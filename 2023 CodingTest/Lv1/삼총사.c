@@ -6,6 +6,12 @@
     첫 번째, 세 번째, 네 번째 학생의 정수 번호를 더하면 0이므로 세 학생은 삼총사입니다.
 */
 
+// 블로그링크
+
+/* 
+    https://velog.io/@cindy0817-web/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv1-%EC%82%BC%EC%B4%9D%EC%82%AC-C
+*/
+
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>
