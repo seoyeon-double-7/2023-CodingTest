@@ -18,5 +18,8 @@
     <ClCompile Include="Lv1\바탕화면 정리.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Lv1\두 개 뽑아서 더하기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

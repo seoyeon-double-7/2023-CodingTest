@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Lv1\두 개 뽑아서 더하기.c" />
     <ClCompile Include="Lv1\바탕화면 정리.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
